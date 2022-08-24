@@ -1,0 +1,15 @@
+D:\teste verion\meus_testes_verion_em_C\Tipo_Nodo\Campos_Tipo_Nodo\Campos_Tipo_Nodo\bin\Debug\net6.0\Campos_Tipo_Nodo.exe
+D:\teste verion\meus_testes_verion_em_C\Tipo_Nodo\Campos_Tipo_Nodo\Campos_Tipo_Nodo\bin\Debug\net6.0\Campos_Tipo_Nodo.deps.json
+D:\teste verion\meus_testes_verion_em_C\Tipo_Nodo\Campos_Tipo_Nodo\Campos_Tipo_Nodo\bin\Debug\net6.0\Campos_Tipo_Nodo.runtimeconfig.json
+D:\teste verion\meus_testes_verion_em_C\Tipo_Nodo\Campos_Tipo_Nodo\Campos_Tipo_Nodo\bin\Debug\net6.0\Campos_Tipo_Nodo.dll
+D:\teste verion\meus_testes_verion_em_C\Tipo_Nodo\Campos_Tipo_Nodo\Campos_Tipo_Nodo\bin\Debug\net6.0\Campos_Tipo_Nodo.pdb
+D:\teste verion\meus_testes_verion_em_C\Tipo_Nodo\Campos_Tipo_Nodo\Campos_Tipo_Nodo\obj\Debug\net6.0\Campos_Tipo_Nodo.csproj.AssemblyReference.cache
+D:\teste verion\meus_testes_verion_em_C\Tipo_Nodo\Campos_Tipo_Nodo\Campos_Tipo_Nodo\obj\Debug\net6.0\Campos_Tipo_Nodo.GeneratedMSBuildEditorConfig.editorconfig
+D:\teste verion\meus_testes_verion_em_C\Tipo_Nodo\Campos_Tipo_Nodo\Campos_Tipo_Nodo\obj\Debug\net6.0\Campos_Tipo_Nodo.AssemblyInfoInputs.cache
+D:\teste verion\meus_testes_verion_em_C\Tipo_Nodo\Campos_Tipo_Nodo\Campos_Tipo_Nodo\obj\Debug\net6.0\Campos_Tipo_Nodo.AssemblyInfo.cs
+D:\teste verion\meus_testes_verion_em_C\Tipo_Nodo\Campos_Tipo_Nodo\Campos_Tipo_Nodo\obj\Debug\net6.0\Campos_Tipo_Nodo.csproj.CoreCompileInputs.cache
+D:\teste verion\meus_testes_verion_em_C\Tipo_Nodo\Campos_Tipo_Nodo\Campos_Tipo_Nodo\obj\Debug\net6.0\Campos_Tipo_Nodo.dll
+D:\teste verion\meus_testes_verion_em_C\Tipo_Nodo\Campos_Tipo_Nodo\Campos_Tipo_Nodo\obj\Debug\net6.0\refint\Campos_Tipo_Nodo.dll
+D:\teste verion\meus_testes_verion_em_C\Tipo_Nodo\Campos_Tipo_Nodo\Campos_Tipo_Nodo\obj\Debug\net6.0\Campos_Tipo_Nodo.pdb
+D:\teste verion\meus_testes_verion_em_C\Tipo_Nodo\Campos_Tipo_Nodo\Campos_Tipo_Nodo\obj\Debug\net6.0\Campos_Tipo_Nodo.genruntimeconfig.cache
+D:\teste verion\meus_testes_verion_em_C\Tipo_Nodo\Campos_Tipo_Nodo\Campos_Tipo_Nodo\obj\Debug\net6.0\ref\Campos_Tipo_Nodo.dll

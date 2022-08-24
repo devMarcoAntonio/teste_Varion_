@@ -1,0 +1,15 @@
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\Sequencia_Das_Cores\Sequencia_Das_Cores\bin\Debug\net6.0\Sequencia_Das_Cores.exe
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\Sequencia_Das_Cores\Sequencia_Das_Cores\bin\Debug\net6.0\Sequencia_Das_Cores.deps.json
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\Sequencia_Das_Cores\Sequencia_Das_Cores\bin\Debug\net6.0\Sequencia_Das_Cores.runtimeconfig.json
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\Sequencia_Das_Cores\Sequencia_Das_Cores\bin\Debug\net6.0\Sequencia_Das_Cores.dll
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\Sequencia_Das_Cores\Sequencia_Das_Cores\bin\Debug\net6.0\Sequencia_Das_Cores.pdb
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\Sequencia_Das_Cores\Sequencia_Das_Cores\obj\Debug\net6.0\Sequencia_Das_Cores.csproj.AssemblyReference.cache
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\Sequencia_Das_Cores\Sequencia_Das_Cores\obj\Debug\net6.0\Sequencia_Das_Cores.GeneratedMSBuildEditorConfig.editorconfig
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\Sequencia_Das_Cores\Sequencia_Das_Cores\obj\Debug\net6.0\Sequencia_Das_Cores.AssemblyInfoInputs.cache
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\Sequencia_Das_Cores\Sequencia_Das_Cores\obj\Debug\net6.0\Sequencia_Das_Cores.AssemblyInfo.cs
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\Sequencia_Das_Cores\Sequencia_Das_Cores\obj\Debug\net6.0\Sequencia_Das_Cores.csproj.CoreCompileInputs.cache
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\Sequencia_Das_Cores\Sequencia_Das_Cores\obj\Debug\net6.0\Sequencia_Das_Cores.dll
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\Sequencia_Das_Cores\Sequencia_Das_Cores\obj\Debug\net6.0\refint\Sequencia_Das_Cores.dll
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\Sequencia_Das_Cores\Sequencia_Das_Cores\obj\Debug\net6.0\Sequencia_Das_Cores.pdb
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\Sequencia_Das_Cores\Sequencia_Das_Cores\obj\Debug\net6.0\Sequencia_Das_Cores.genruntimeconfig.cache
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\Sequencia_Das_Cores\Sequencia_Das_Cores\obj\Debug\net6.0\ref\Sequencia_Das_Cores.dll

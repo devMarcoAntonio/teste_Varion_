@@ -1,0 +1,15 @@
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\venda_de_lotes\venda_de_lotes\bin\Debug\net6.0\venda_de_lotes.exe
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\venda_de_lotes\venda_de_lotes\bin\Debug\net6.0\venda_de_lotes.deps.json
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\venda_de_lotes\venda_de_lotes\bin\Debug\net6.0\venda_de_lotes.runtimeconfig.json
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\venda_de_lotes\venda_de_lotes\bin\Debug\net6.0\venda_de_lotes.dll
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\venda_de_lotes\venda_de_lotes\bin\Debug\net6.0\venda_de_lotes.pdb
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\venda_de_lotes\venda_de_lotes\obj\Debug\net6.0\venda_de_lotes.csproj.AssemblyReference.cache
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\venda_de_lotes\venda_de_lotes\obj\Debug\net6.0\venda_de_lotes.GeneratedMSBuildEditorConfig.editorconfig
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\venda_de_lotes\venda_de_lotes\obj\Debug\net6.0\venda_de_lotes.AssemblyInfoInputs.cache
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\venda_de_lotes\venda_de_lotes\obj\Debug\net6.0\venda_de_lotes.AssemblyInfo.cs
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\venda_de_lotes\venda_de_lotes\obj\Debug\net6.0\venda_de_lotes.csproj.CoreCompileInputs.cache
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\venda_de_lotes\venda_de_lotes\obj\Debug\net6.0\venda_de_lotes.dll
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\venda_de_lotes\venda_de_lotes\obj\Debug\net6.0\refint\venda_de_lotes.dll
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\venda_de_lotes\venda_de_lotes\obj\Debug\net6.0\venda_de_lotes.pdb
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\venda_de_lotes\venda_de_lotes\obj\Debug\net6.0\venda_de_lotes.genruntimeconfig.cache
+D:\teste verion\meus_testes_verion_em_C\venda_de_lotes\venda_de_lotes\venda_de_lotes\obj\Debug\net6.0\ref\venda_de_lotes.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sequencia_Das_Cores/1.0.0": {
+        "runtime": {
+          "Sequencia_Das_Cores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sequencia_Das_Cores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

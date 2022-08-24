@@ -33,12 +33,12 @@ namespace Campos_Tipo_Nodo
         }
 
         // Verifica se a chave de 1 ao 10 se está presente na lista encadeada
-        public bool search(Nodo head, int chave)
+        public bool search(Nodo head, int ch)
         {
             Nodo current = head;
             while (current != null)
             {
-                if (current.data == chave)
+                if (current.data == ch)
                     return true; // Elemento boolean encontrado
                 current = current.next;
             }
@@ -68,7 +68,7 @@ namespace Campos_Tipo_Nodo
             Console.WriteLine("Qual chave você deseja verificar?");
             int chave = int.Parse(Console.ReadLine());
 
-            if (list.search(list.head, chave))
+            if (list.search(list.head, ch))
                 Console.WriteLine("A chave pertence a lista.");
             else
                 Console.WriteLine("A chave não pertence a lista.");
